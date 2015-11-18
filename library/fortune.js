@@ -5,3 +5,10 @@ function getFortune(){
     return array[Math.floor((Math.random() * 10) + 1)];
 }
 
+module.exports = {
+    display: getFortune()
+};
+
+ 
+    
+    
