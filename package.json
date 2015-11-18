@@ -1,0 +1,23 @@
+{
+  "name": "nodeworkshopday2",
+  "version": "2.0.0",
+  "description": "the module with node js exercises",
+  "main": "cps.js",
+  "scripts": {
+    "test": "Babak"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabakKhosravifar/node-workshop-2.git"
+  },
+  "keywords": [
+    "node",
+    "cps"
+  ],
+  "author": "babak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabakKhosravifar/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/BabakKhosravifar/node-workshop-2#readme"
+}
