@@ -6,7 +6,7 @@ function getFortune(){
 }
 
 module.exports = {
-    display: getFortune()
+    display: getFortune
 };
 
  
